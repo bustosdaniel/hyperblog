@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: "arial";
+    color: black;
+}
+
+#container {
+    font-size: 22px;
+    margin: 0% auto;
+    padding: 10px;
+    border: 2px solid grey ;
+    text-align: left;
+}
+
+#container h1{
+    color: grey;
+}
+#cabecera {
+    background-color: khaki;
+    font-size: 38px;
+    text-align: left;
+    color: lightgray;
+}
